@@ -1,4 +1,4 @@
-# EasyFont2Mesh
+# EasyText2Mesh
 
 EasyText2Mesh is a Blender addon that allows you to convert text objects to mesh and improve their geometry. It uses Blender's built-in mesh tools to clean up the mesh and remove any unnecessary triangles.
 
